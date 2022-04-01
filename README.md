@@ -5,7 +5,13 @@
 </div>
 
 ## :innocent: Motivation
-Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
+Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging.
+
+## :hourglass: Project Demo
+<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_with_mask.png">
+<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png">
+<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_with_mask.png">
+<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png">
 
 ## :warning: TechStack/framework used
 
@@ -32,7 +38,7 @@ The images used were real images of faces wearing masks. The images were collect
 * __Kaggle datasets__ 
 * __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
 
-<br>
-Design & Developed by : <span style="color:red">Yash Patel and Luv Patel</span>
+## :handshake: Design & Developed By
+#### Yash Patel and Luv Patel
 
 
