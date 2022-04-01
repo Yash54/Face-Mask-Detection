@@ -8,9 +8,9 @@
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging.
 
 ## :hourglass: Project Demo
-<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_with_mask.png" width="450" height="350">&nbsp;&nbsp;&nbsp; <img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png" width="450" height="350"></p>
+<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_with_mask.png" width="400" height="300">&nbsp;&nbsp;&nbsp; <img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png" width="400" height="300"></p>
 
-<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_with_mask.png" width="450" height="350">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_without_mask.png" width="450" height="350"></p>
+<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_with_mask.png" width="400" height="300">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_without_mask.png" width="400" height="300"></p>
 
 ## :warning: TechStack/framework used
 
