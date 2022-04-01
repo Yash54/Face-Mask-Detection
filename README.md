@@ -8,10 +8,9 @@
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging.
 
 ## :hourglass: Project Demo
-<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_with_mask.png">
-<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png">
-<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_with_mask.png">
-<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png">
+<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_with_mask.png" width="450" height="350">&nbsp;&nbsp;&nbsp; <img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Yash_without_mask.png" width="450" height="350"></p>
+
+<p align="center"><img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_with_mask.png" width="450" height="350">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yash54/Face-Mask-Detection/blob/main/Documents/Screenshots/Luv_without_mask.png" width="450" height="350"></p>
 
 ## :warning: TechStack/framework used
 
@@ -27,7 +26,7 @@ Our face mask detector doesn't use any morphed masked images dataset and the mod
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 ## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download]()
+The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/19OaA3P7xO51vR_Tk5Gf6wOhpLIDjMt-K?usp=sharing)
 
 This dataset consists of __10,359 images__ belonging to two classes:
 *	__with_mask: 6359 images__
@@ -36,7 +35,7 @@ This dataset consists of __10,359 images__ belonging to two classes:
 The images used were real images of faces wearing masks. The images were collected from the following sources:
 
 * __Kaggle datasets__ 
-* __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
+* __RMFD dataset__ 
 
 ## :handshake: Design & Developed By
 #### Yash Patel and Luv Patel
